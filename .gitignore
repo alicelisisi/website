@@ -1,0 +1,4 @@
+Configuring Git to ignore a file. ~/repos/website/.gitignore
+.DS_Store
+*~
+tmp/
